@@ -1,0 +1,42 @@
+{
+    "menu_home": {
+        "zh-cn": "主页",
+        "en": "Home"
+    },
+    "menu_contests": {
+        "zh-cn": "比赛",
+        "en": "Contests"
+    },
+    "menu_problems": {
+        "zh-cn": "题目",
+        "en": "Problems"
+    },
+    "menu_settings": {
+        "zh-cn": "设置",
+        "en": "Settings"
+    },
+    "footer_title": {
+        "zh-cn": "<b>CodeForces Powerful Viewer</b>",
+        "en": "<b>CodeForces Powerful Viewer</b>"
+    },
+    "footer_copyright": {
+        "zh-cn": "Copyright © 2023 <a href=\"https://hellolin.cf/\" target=\"_blank\">hellolin</a>",
+        "en": "Copyright © 2023 <a href=\"https://hellolin.cf/\" target=\"_blank\">hellolin</a>"
+    },
+    "footer_privacy": {
+        "zh-cn": "我们通过 Microsoft Clarity 了解您使用我们网站的方式，从而改进我们的产品。使用我们的网站即表示您同意我们和 Microsoft 可以收集和使用这些数据。参阅 <a href=\"https://privacy.microsoft.com/zh-cn/privacystatement\" target=\"_blank\">Microsoft 隐私声明</a>了解更多详细信息。",
+        "en": "We improve our products by using Microsoft Clarity to see how you use our website. By using our site, you agree that we and Microsoft can collect and use this data. See <a href=\"https://privacy.microsoft.com/en-us/privacystatement\" target=\"_blank\">Microsoft Privacy Statement</a> for more details."
+    },
+    "footer_version": {
+        "zh-cn": "当前版本：{0} @ {1}",
+        "en": "Current version: {0} @ {1}"
+    },
+    "footer_links": {
+        "zh-cn": "由 <a href=\"https://github.com\" target=\"_blank\">GitHub</a> 和 <a href=\"https://vercel.com\" target=\"_blank\">Vercel</a> 强力驱动",
+        "en": "Powered by <a href=\"https://github.com\" target=\"_blank\">GitHub</a> and <a href=\"https://vercel.com\" target=\"_blank\">Vercel</a>"
+    },
+    "footer_time": {
+        "zh-cn": "本站已经不稳定运行了 <b>{0} 天 {1} 时 {2} 分 {3} 秒</b>，可喜可贺！",
+        "en": "This site has been running for <b>{0} days, {1} hours, {2} minutes and {3} seconds</b>."
+    }
+}
