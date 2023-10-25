@@ -38,5 +38,41 @@
     "footer_time": {
         "zh-cn": "本站已经不稳定运行了 <b>{0} 天 {1} 时 {2} 分 {3} 秒</b>，可喜可贺！",
         "en": "This site has been running for <b>{0} days, {1} hours, {2} minutes and {3} seconds</b>."
+    },
+    "home_title": {
+        "zh-cn": "CodeForces Powerful Viewer",
+        "en": "CodeForces Powerful Viewer"
+    },
+    "home_sub_title": {
+        "zh-cn": "By <a href=\"https://hellolin.cf/\" target=\"_blank\">hellolin</a>",
+        "en": "By <a href=\"https://hellolin.cf/\" target=\"_blank\">hellolin</a>"
+    },
+    "home_intro_title": {
+        "zh-cn": "介绍",
+        "en": "Introduction"
+    },
+    "home_intro_1": {
+        "zh-cn": "CodeForces Powerful Viewer 是一个用于辅助 CodeForces 比赛和做题的项目。",
+        "en": "CodeForces Powerful Viewer is a helper for CodeForces contests and problems."
+    },
+    "home_intro_2": {
+        "zh-cn": "如果你认为 CodeForces 官方的 UI 界面不够美观、可自定义程度不高的话，那就来试试吧！点击下面这个按钮跳转到比赛页面并开始使用。",
+        "en": "If you think the official CodeForces UI isn't pretty and customizable enough, then try this! Click the button below to jump to the contest page and get started."
+    },
+    "home_into_button_go": {
+        "zh-cn": "出发！",
+        "en": "Let's go!"
+    },
+    "home_about_title": {
+        "zh-cn": "关于",
+        "en": "About"
+    },
+    "home_about_1": {
+        "zh-cn": "CodeForces Powerful Viewer 是一个开源项目，采用 MPLv2 作为许可证，你可以在 <a href=\"https://github.com/hellolin-oi/CFPV\" target=\"_blank\">GitHub 仓库</a> 查看代码、提出建议和发起 Pull Request 等。",
+        "en": "CodeForces Powerful Viewer is an open source project under the MPLv2 license. You can view the source code, open Issues, open Pull Requests, etc. at <a href=\"https://github.com/hellolin-oi/CFPV\" target=\"_blank\">the GitHub repository</a>."
+    },
+    "home_about_2": {
+        "zh-cn": "本项目以 <a href=\"https://fomantic-ui.com/\" target=\"_blank\">Fomantic UI</a> 作为 UI 框架，在代码方面参考了 <a href=\"https://github.com/CodeforcesContestHelper/CCHv2\" target=\"_blank\">CCHv2</a>，在此提出感谢。",
+        "en": "This project uses <a href=\"https://fomantic-ui.com/\" target=\"_blank\">Fomantic UI</a>, and the code implementation was inspired by <a href=\"https://github.com/CodeforcesContestHelper/CCHv2\" target=\"_blank\">CCHv2</a>, special thanks to them."
     }
 }
